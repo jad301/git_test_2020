@@ -15,4 +15,7 @@ Javier Arce del Campo
 14	merge recursivo con conflicto
 15	merge recursivo con conflicto
 16	nano, add
+17	tag
+18	push origin --tags
+19	add, commit
 
