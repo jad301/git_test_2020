@@ -1,0 +1,4 @@
+6	checkout
+7	branch, checkout
+8	nano
+9	add, commit
