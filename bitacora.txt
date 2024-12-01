@@ -12,3 +12,7 @@ Javier Arce del Campo
 11	push
 12 	las fusiones serian fast-forward una y recursiva la siguiente
 13	add, commit
+14	merge recursivo con conflicto
+15	merge recursivo con conflicto
+16	nano, add
+
