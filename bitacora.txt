@@ -1,0 +1,4 @@
+10	checkout main
+11	push
+12 	las fusiones serian fast-forward una y recursiva la siguiente
+13	add, commit
