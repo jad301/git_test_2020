@@ -1,3 +1,7 @@
+6	checkout
+7	branch, checkout
+8	nano
+9	add, commit
 10	checkout main
 11	push
 12 	las fusiones serian fast-forward una y recursiva la siguiente
