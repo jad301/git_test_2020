@@ -1,3 +1,9 @@
+Javier Arce del Campo
+
+1	clone
+2	branch
+3	add
+4	add
 6	checkout
 7	branch, checkout
 8	nano
